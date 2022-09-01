@@ -6,9 +6,10 @@
 
 <br/>
 <div align="center">
+<img height="180" width="180" src="https://media4.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b7611a4a11b64db3ad2f38a1c439509e19bdd5698ba08&rid=giphy.gif&ct=g"/>
   <a href="https://github.com/italoaraujo253">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italoaraujo253&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoaraujo253&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 <br/>
 
