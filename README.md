@@ -20,11 +20,14 @@
 </div>
 
 <div>
-  <h1>conheça alguns projetos feitos por mim!</h1>
-  - <a href="https://italoaraujo253.github.io/pp_Calculator/">Calculadora</a>
-  - <a href="https://italoaraujo253.github.io/fm_Space_Tourism/">Front-End Mentor | Space Tourism</a>
-  - <a href="https://italoaraujo253.github.io/fm_Sunnyside/">Front-End Mentor | Sunnyside</a>
-  - <a href="https://italoaraujo253.github.io/fm_Qr_Code/">Front-End Mentor | QR Code</a>
+  <h1>Conheça alguns projetos feitos por mim!</h1>
+  <a href="https://italoaraujo253.github.io/pp_Calculator/">Calculadora</a>
+  <br/>
+  <a href="https://italoaraujo253.github.io/fm_Space_Tourism/">Front-End Mentor | Space Tourism</a>
+  <br/>
+  <a href="https://italoaraujo253.github.io/fm_Sunnyside/">Front-End Mentor | Sunnyside</a>
+  <br/>
+  <a href="https://italoaraujo253.github.io/fm_Qr_Code/">Front-End Mentor | QR Code</a>
 </div>
 
 <br/>
