@@ -19,6 +19,14 @@
   <img align="center" alt="Ítalo_JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+<div>
+  <h1>conheça alguns projetos feitos por mim!</h1>
+  - <a href="https://italoaraujo253.github.io/pp_Calculator/">Calculadora</a>
+  - <a href="https://italoaraujo253.github.io/fm_Space_Tourism/">Front-End Mentor | Space Tourism</a>
+  - <a href="https://italoaraujo253.github.io/fm_Sunnyside/">Front-End Mentor | Sunnyside</a>
+  - <a href="https://italoaraujo253.github.io/fm_Qr_Code/">Front-End Mentor | QR Code</a>
+</div>
+
 <br/>
 <div>
   <h1>contato_</h1>
