@@ -1,7 +1,7 @@
 <h1>Olá! 👋<br/>Me chamo Ítalo Araújo e...</h1>
 <br/>
 
-- 👨‍💻 | Atualmente, estou estudando TypeScript + Nest.js
+- 👨‍💻 | Atualmente, estou trabalhando com <b>Desenvolvimento Full stack</b>
 - 🚀 | Estou aprofundando meus conhecimentos em JavaScript
 
 <br/>
