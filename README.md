@@ -7,8 +7,8 @@
 <br/>
 <div align="center">
 <img height="180" width="180" src="https://media4.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b7611a4a11b64db3ad2f38a1c439509e19bdd5698ba08&rid=giphy.gif&ct=g"/>
-  <a href="https://github.com/italoaraujo253">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoaraujo253&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/italoalmeida253">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoalmeida253&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 <br/>
@@ -22,13 +22,13 @@
 
 <div>
   <h1>Conheça alguns projetos feitos por mim!</h1>
-  <a href="https://italoaraujo253.github.io/pp_Calculator/">Calculadora</a>
+  <a href="https://italoalmeida253.github.io/pp_Calculator/">Calculadora</a>
   <br/>
-  <a href="https://italoaraujo253.github.io/fm_Space_Tourism/">Front-End Mentor | Space Tourism</a>
+  <a href="https://italoalmeida253.github.io/fm_Space_Tourism/">Front-End Mentor | Space Tourism</a>
   <br/>
-  <a href="https://italoaraujo253.github.io/fm_Sunnyside/">Front-End Mentor | Sunnyside</a>
+  <a href="https://italoalmeida253.github.io/fm_Sunnyside/">Front-End Mentor | Sunnyside</a>
   <br/>
-  <a href="https://italoaraujo253.github.io/fm_Qr_Code/">Front-End Mentor | QR Code</a>
+  <a href="https://italoalmeida253.github.io/fm_Qr_Code/">Front-End Mentor | QR Code</a>
 </div>
 
 <br/>
