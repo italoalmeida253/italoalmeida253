@@ -17,10 +17,10 @@
 [![Linguagens mais usadas do Italo](https://github-readme-stats.vercel.app/api/top-langs/?username=italoalmeida253&layout=compact)]()
 
 ## Projetos 🚧
-- <a href="https://apuracao-votos-eleicoes.firebaseapp.com/cenario-eleitoral" target="_blank">Simulador de cenário eleitoral | **Frontend**</a>
-- <a href="https://apuracao-votos-eleicoes.firebaseapp.com/cidades/MTM1MDE6YWxs" target="_blank">Site de apuração de votos extraoficial | **Frontend**</a>
-- <a href="https://master-apps-it.firebaseapp.com/" target="_blank">Site empresarial Master Apps | **Frontend**</a>
-- <a href="https://italoalmeida253.github.io/neon-calculator/" target="_blank">Neon Calculator | **Pessoal**</a>
+- [Simulador de cenário eleitoral | **Frontend**](https://apuracao-votos-eleicoes.firebaseapp.com/cenario-eleitoral)
+- [Site de apuração de votos extraoficial | **Frontend**](https://apuracao-votos-eleicoes.firebaseapp.com/cidades/MTM1MDE6YWxs)
+- [Site empresarial Master Apps | **Frontend**](https://master-apps-it.firebaseapp.com/)
+- [Neon Calculator | **Pessoal**](https://italoalmeida253.github.io/neon-calculator/)
 
 ## Contato ☎️
 
