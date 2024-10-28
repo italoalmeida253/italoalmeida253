@@ -17,8 +17,6 @@
 [![Linguagens mais usadas do Italo](https://github-readme-stats.vercel.app/api/top-langs/?username=italoalmeida253&layout=compact)]()
 
 ## Projetos em que trabalhei 🚧
-- [Simulador de cenário eleitoral | **Frontend**](https://apuracao-votos-eleicoes.firebaseapp.com/cenario-eleitoral)
-- [Site de apuração de votos extraoficial | **Frontend**](https://apuracao-votos-eleicoes.firebaseapp.com/cidades/MTM1MDE6YWxs)
 - [Site empresarial Master Apps | **Frontend**](https://master-apps-it.firebaseapp.com/)
 - [Neon Calculator | **Pessoal**](https://italoalmeida253.github.io/neon-calculator/)
 
