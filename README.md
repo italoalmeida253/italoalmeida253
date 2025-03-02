@@ -1,6 +1,5 @@
 ## Olá, eu sou o Italo Almeida 👋
 
-## Habilidades 👨‍💻
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
@@ -12,13 +11,7 @@
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 
-[![Linguagens mais usadas do Italo](https://github-readme-stats.vercel.app/api/top-langs/?username=italoalmeida253&layout=compact)]()
-
-## Projetos em que trabalhei 🚧
-- [Site empresarial Master Apps | **Frontend**](https://master-apps-it.firebaseapp.com/)
-- [Neon Calculator | **Pessoal**](https://italoalmeida253.github.io/neon-calculator/)
-
-## Contato ☎️
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italoa-dev/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italoa.dev@gmail.com)
